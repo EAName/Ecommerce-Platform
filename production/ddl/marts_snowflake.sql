@@ -1,0 +1,3 @@
+-- Data Marts Snowflake Schema
+-- Copy from ecommerce_snowflake_marts.sql
+-- (Paste your full snowflake schema here) 

@@ -1,0 +1,3 @@
+-- Advanced ETL Logic
+-- Copy from ecommerce_etl_advanced.sql and ecommerce_etl_advanced_patterns.sql
+-- (Paste your advanced ETL logic here) 

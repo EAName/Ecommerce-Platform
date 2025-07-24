@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Airflow
+airflow.db
+logs/
+unittest.cfg
+
+# SQL dumps/backups
+*.bak
+*.sql~
+
+# Secrets
+*.env
+.env
+configs/*_secrets.env
+
+# OS files
+.DS_Store
+Thumbs.db 

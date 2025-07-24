@@ -1,0 +1,3 @@
+-- Normalized OLTP Schema (3NF)
+-- Copy from ecommerce_schema.sql
+-- (Paste your full OLTP schema here) 

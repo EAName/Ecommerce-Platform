@@ -1,0 +1,3 @@
+-- Main ETL Script (Batch Load)
+-- Copy from ecommerce_etl.sql
+-- (Paste your full ETL script here) 

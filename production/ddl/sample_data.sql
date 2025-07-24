@@ -1,0 +1,3 @@
+-- Sample Data for OLTP Schema
+-- Copy from ecommerce_sample_data.sql
+-- (Paste your full sample data here) 

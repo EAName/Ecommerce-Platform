@@ -1,0 +1,3 @@
+-- Data Warehouse Star Schema
+-- Copy from ecommerce_star_schema.sql
+-- (Paste your full star schema here) 
